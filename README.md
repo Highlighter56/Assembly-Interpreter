@@ -1,7 +1,7 @@
 # Assembly-Interpreter
 
 This project began as part of my Assembly course, based on the text book C and C++ Under the Hood, Second Edition.
-The assignment was to create an interpreter, based of the assembly compiler we use in class.
+The assignment was to create an interpreter, based on the assembly compiler we use in class.
 
 ## Overview
 Expand my existing class project, completing an interpreter that reads and executes encoded assembly files (.e).

@@ -30,6 +30,7 @@ Currently Supported Instructions:
 
 ## Usage
 Compile:        gcc i1.c -o i1
+
 Run Programs:   ./i1 i1test.e
 
 ## Future Plans

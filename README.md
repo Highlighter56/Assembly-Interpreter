@@ -34,4 +34,5 @@ Compile:        gcc i1.c -o i1
 Run Programs:   ./i1 i1test.e
 
 ## Future Plans
-I want to grow this project to handle the full instruction set covered in class, and possibly add debugging options to allow for easier testing of assembly programs.
+Grow this project to handle the full instruction set covered in class.
+Add debugging options to allow for easier testing of assembly programs.
